@@ -1,0 +1,16 @@
+Wake a mole-
+open index.html file to PLAY
+
+APP.JS FILE CONTAINES THE WORKING OF THE GAME
+images folder contain some 100*100 px images.
+STEPS-
+1.Creating UI(score,alert,finishing message)
+2.adding the rules to random genrate cards.
+3.creating event to listen the click and if the two images clicked are same ,then increament the score.
+4.now the images found will be replaced by blank.
+5.An alert message to show if found match or not.
+6.using css to beautify the content.
+
+for complete code refer to -----app.js-----
+
+thankyou...!
